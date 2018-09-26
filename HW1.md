@@ -1,9 +1,9 @@
-# ATHERO 无线网卡
+﻿# ATHERO 无线网卡
 ## 一.网卡图片：
 ![无线网卡正面](edit-pic1.jpg)
 
 ![无线网卡背面](edit-pic3.jpg)
-## 一.参数配置：
+## 二.参数配置：
     Wiphy phy0
         max # scan SSIDs: 4
         max scan IEs length: 2257 bytes
